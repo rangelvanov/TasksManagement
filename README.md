@@ -3,5 +3,5 @@
 
 
 Login with 
-Username : admin 
-Password : adminpass
+Username: admin 
+Password: adminpass
