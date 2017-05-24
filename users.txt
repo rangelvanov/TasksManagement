@@ -1,0 +1,12 @@
+1
+admin
+adminpass
+Administrator
+Administrator
+true
+2
+rangel
+ivanov
+Rangel
+Ivanov
+true
